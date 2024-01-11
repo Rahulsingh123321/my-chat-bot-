@@ -1,0 +1,2 @@
+#all the required libraries are listed here
+pyfiglet==1.0.2
