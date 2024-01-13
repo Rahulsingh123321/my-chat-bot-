@@ -48,10 +48,10 @@ python .\main.py
     
 ## Authors
 
-- [@KamalSDhami](https://github.com/KamalSDhami/)
+- [@rahulsingh](https://github.com/Rahulsingh123321)
 
 
 ## Support
 
-For support, email devdhami765@gmail.com or join our Slack channel.
+For support, email rs3395820@gmail.com or join our Slack channel.
 
